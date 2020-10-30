@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 
 namespace bosch_api.SignalRHub
 {
@@ -36,6 +37,10 @@ namespace bosch_api.SignalRHub
         public async Task BroadcastCrowdDensityChanged(int cameraId, int density)
         {
             await Clients.All.CrowdDensityChanged(cameraId, density);
+        }
+        public async Task BroadcastLatestCaptureChanged(FileStreamResult latestCapture)
+        {
+            await Clients.All.LatestCaptureChanged(latestCapture);
         }
     }
 }

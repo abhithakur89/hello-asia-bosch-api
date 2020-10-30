@@ -534,6 +534,10 @@ namespace bosch_api.Controllers
                 var filePath = DownloadLatestFile(dropboxClient).Result;
 
                 var image = System.IO.File.OpenRead(filePath);
+
+                SignalRHubConnection.GetInstance(Configuration["SignalRHubUrl"])
+                    .SendAsync("BroadcastLatestCaptureChanged", File(image, "image/jpeg"));
+
                 return File(image, "image/jpeg");
 
             }

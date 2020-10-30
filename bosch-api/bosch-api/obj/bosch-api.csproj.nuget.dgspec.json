@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj": {}
+    "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj": {}
   },
   "projects": {
-    "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj": {
+    "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj",
+        "projectUniqueName": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj",
         "projectName": "bosch-api",
-        "projectPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj",
-        "packagesPath": "C:\\Users\\XSVS1514\\.nuget\\packages\\",
-        "outputPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\obj\\",
+        "projectPath": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj",
+        "packagesPath": "C:\\Users\\qnjv5419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\bosch-api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\XSVS1514\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qnjv5419\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj": {
-                "projectPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj"
+              "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj"
               }
             }
           }
@@ -97,20 +94,17 @@
         }
       }
     },
-    "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj": {
+    "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj",
         "projectName": "BoschApi.Entities",
-        "projectPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj",
-        "packagesPath": "C:\\Users\\XSVS1514\\.nuget\\packages\\",
-        "outputPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\obj\\",
+        "projectPath": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj",
+        "packagesPath": "C:\\Users\\qnjv5419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qnjv5419\\Documents\\Projects\\Covid19_poc\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\XSVS1514\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qnjv5419\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
