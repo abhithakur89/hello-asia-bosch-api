@@ -1,0 +1,5 @@
+C:\PRJ\Bosch-API-13-Sep-2020\bosch-api\bosch-api\BoschApi.Entities\bin\Debug\netcoreapp3.1\BoschApi.Entities.deps.json
+C:\PRJ\Bosch-API-13-Sep-2020\bosch-api\bosch-api\BoschApi.Entities\bin\Debug\netcoreapp3.1\BoschApi.Entities.dll
+C:\PRJ\Bosch-API-13-Sep-2020\bosch-api\bosch-api\BoschApi.Entities\obj\Debug\netcoreapp3.1\BoschApi.Entities.csprojAssemblyReference.cache
+C:\PRJ\Bosch-API-13-Sep-2020\bosch-api\bosch-api\BoschApi.Entities\obj\Debug\netcoreapp3.1\BoschApi.Entities.AssemblyInfoInputs.cache
+C:\PRJ\Bosch-API-13-Sep-2020\bosch-api\bosch-api\BoschApi.Entities\obj\Debug\netcoreapp3.1\BoschApi.Entities.AssemblyInfo.cs

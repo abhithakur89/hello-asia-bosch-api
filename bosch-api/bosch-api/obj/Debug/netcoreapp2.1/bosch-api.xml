@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>bosch-api</name>
+    </assembly>
+    <members>
+        <member name="M:bosch_api.Controllers.CameraController.GetAllCameras(System.Int32)">
+            <summary>
+            GetAllSites API. Returns all cameras info.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /getallcameras?siteid=1
+            
+            Sample response:
+            
+                {
+                    "respcode": 1200,
+                    "description": "Successful",
+                    "cameras": [
+                        {
+                            "cameraId": 1,
+                            "cameraName": "Camera at Entrance",
+                            "cameraIP": "192.168.1.191",
+                            "model": "Bosch",
+                            "additionalDetail": "",
+                            "GateId": 1
+                        },
+                        {
+                            ...
+                        }
+                        ...
+                    ]
+                }
+                
+            Response codes:
+                1200 = "Successful"
+                1201 = "Error"
+            </remarks>
+            <returns>
+            </returns>
+        </member>
+        <member name="M:bosch_api.Controllers.CameraController.AddNewEntry(System.Int32)">
+            <summary>
+            Entry API. Add new entry.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /addnewentry?cameraid=1
+            
+            Sample response:
+            
+                {
+                    "respcode": 1200,
+                }
+                
+            Response codes:
+                1200 = "Successful"
+                1201 = "Error"
+            </remarks>
+            <returns>
+            </returns>
+        </member>
+        <member name="M:bosch_api.Controllers.CameraController.AddNewExit(System.Int32)">
+            <summary>
+            Entry API. Add new exit.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /addnewexit?cameraid=1
+            
+            Sample response:
+            
+                {
+                    "respcode": 1200
+                }
+                
+            Response codes:
+                1200 = "Successful"
+                1201 = "Error"
+            </remarks>
+            <returns>
+            </returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:bosch_api.Controllers.CameraController.GetTodayEntries(System.Int32,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:bosch_api.Controllers.CameraController.GetTodayExits(System.Int32,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:bosch_api.Controllers.CameraController.CrowdDensity(System.Int32,System.Int32)" -->
+        <member name="M:bosch_api.Controllers.CameraController.GetLatestCapture">
+            <summary>
+            GetLatestCapture API. Get the latest screen capture.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /getlatestcapture?cameraid=1
+            
+            Sample response:
+                Latest Captured picture
+                
+                
+            Response codes:
+                1200 = "Successful"
+                1201 = "Error"
+            </remarks>
+            <returns>
+            </returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:bosch_api.Controllers.CameraController.GetTodayAlarmLevel(System.Int32,System.Int32)" -->
+        <member name="M:bosch_api.Controllers.CameraController.GetLatestAlarmLevel(System.Int32)">
+            <summary>
+            Get latest alarm level.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /getlatestalarmlevel?cameraid=1
+            
+            Sample response:
+            
+                {
+                    "respcode": 1200,
+                    "timestamp": "2020-09-13T14:47:25",
+                    "level": "2"
+                }
+                
+            Response codes:
+                1200 = "Successful"
+                1201 = "Error"
+            </remarks>
+            <returns>
+            </returns>
+        </member>
+        <member name="M:bosch_api.Controllers.SiteController.GetAllSites">
+            <summary>
+            GetAllSites API. Returns all sites info.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /getallsites
+                 
+            Sample response:
+            
+                {
+                    "respcode": 1200,
+                    "description": "Successful",
+                    "sites": [
+                        {
+                            "siteId": 1,
+                            "siteName": "Novade Office",
+                            "siteDescription": "Novade Pte. Ltd. main office"
+                        },
+                        {
+                            ...
+                        }
+                        ...
+                    ]
+                }
+                
+            Response codes:
+                1200 = "Successful"
+                1201 = "Error"
+            </remarks>
+            <returns>
+            </returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,24 @@
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\appsettings.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\hello-asia-bosch-api - Web Deploy\profile.arm.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\bosch-api.deps.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\bosch-api.runtimeconfig.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\bosch-api.runtimeconfig.dev.json
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\bosch-api.dll
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\bosch-api.pdb
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\bosch-api.xml
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\BoschApi.Entities.dll
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\bin\Release\netcoreapp2.1\BoschApi.Entities.pdb
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.csprojAssemblyReference.cache
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.AssemblyInfoInputs.cache
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.AssemblyInfo.cs
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.csproj.CoreCompileInputs.cache
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.RazorAssemblyInfo.cache
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.RazorAssemblyInfo.cs
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.RazorTargetAssemblyInfo.cache
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.csproj.CopyComplete
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.dll
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.xml
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.pdb
+C:\PRJ\Hello-Asia-Bosch-30-Oct-2020\hello-asia-bosch-api\bosch-api\bosch-api\obj\Release\netcoreapp2.1\bosch-api.genruntimeconfig.cache

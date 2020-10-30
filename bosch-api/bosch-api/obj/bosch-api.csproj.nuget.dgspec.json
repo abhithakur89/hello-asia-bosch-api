@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj": {}
+  },
+  "projects": {
+    "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj",
+        "projectName": "bosch-api",
+        "projectPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\bosch-api.csproj",
+        "packagesPath": "C:\\Users\\XSVS1514\\.nuget\\packages\\",
+        "outputPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\bosch-api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XSVS1514\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj": {
+                "projectPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Dropbox.Api": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj",
+        "projectName": "BoschApi.Entities",
+        "projectPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\BoschApi.Entities.csproj",
+        "packagesPath": "C:\\Users\\XSVS1514\\.nuget\\packages\\",
+        "outputPath": "C:\\PRJ\\Hello-Asia-Bosch-30-Oct-2020\\hello-asia-bosch-api\\bosch-api\\BoschApi.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\XSVS1514\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
